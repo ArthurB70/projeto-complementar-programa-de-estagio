@@ -54,13 +54,14 @@
     <Compile Include="models\VeiculoCaminhonete.cs" />
     <Compile Include="models\VeiculoCarro.cs" />
     <Compile Include="models\VeiculoMotocicleta.cs" />
+    <Compile Include="repositories\RepositorioTodosVeiculos.cs" />
+    <Compile Include="repositories\RepositorioVeiculosEstacionados.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="controllers\" />
-    <Folder Include="repositories\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

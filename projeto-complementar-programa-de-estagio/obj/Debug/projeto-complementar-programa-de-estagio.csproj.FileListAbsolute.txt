@@ -1,0 +1,2 @@
+C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\projeto-complementar-programa-de-estagio\obj\Debug\projeto-complementar-programa-de-estagio.csprojAssemblyReference.cache
+C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\projeto-complementar-programa-de-estagio\obj\Debug\projeto-complementar-programa-de-estagio.csproj.CoreCompileInputs.cache
