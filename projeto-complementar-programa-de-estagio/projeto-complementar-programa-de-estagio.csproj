@@ -43,11 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="models\Calculo\CalculaHorasTotais.cs" />
+    <Compile Include="models\Calculo\CalculaValorCaminhonete.cs" />
+    <Compile Include="models\Calculo\CalculaValorCarro.cs" />
+    <Compile Include="models\Calculo\CalculaValorMotocicleta.cs" />
+    <Compile Include="models\Calculo\ICalculaVeiculo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="models\Veiculo.cs" />
+    <Compile Include="models\VeiculoCaminhonete.cs" />
+    <Compile Include="models\VeiculoCarro.cs" />
+    <Compile Include="models\VeiculoMotocicleta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="controllers\" />
+    <Folder Include="repositories\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
