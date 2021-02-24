@@ -1,7 +1,0 @@
-C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\ProjetoEstacionamento\bin\Debug\ProjetoEstacionamento.exe.config
-C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\ProjetoEstacionamento\bin\Debug\ProjetoEstacionamento.exe
-C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\ProjetoEstacionamento\bin\Debug\ProjetoEstacionamento.pdb
-C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.csprojAssemblyReference.cache
-C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.csproj.CoreCompileInputs.cache
-C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.exe
-C:\Users\Arthur_2\Documents\GitHub\projeto-complementar-programa-de-estagio\ProjetoEstacionamento\obj\Debug\ProjetoEstacionamento.pdb
